@@ -23,7 +23,6 @@ Program to implement the the Logistic Regression Model to Predict the Placement 
 Developed by: S.SRIMATHI
 RegisterNumber:212220040160
 
-
 import pandas as pd
 
 data=pd.read_csv('/content/Placement_Data.csv')
@@ -103,7 +102,6 @@ print(cr)
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 */
 ```
-
 ## Output:
 
 ## PLACEMENT DATA:
@@ -125,10 +123,6 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![image](https://github.com/srimathi-25/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/114581999/4530bca9-471a-4ff3-8976-0ac4eb9e52bd)
 ## PREDICTION OF LR:
 ![image](https://github.com/srimathi-25/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/114581999/a5bde930-23e5-44e7-98e0-511b0440921e)
-
-
-
-
 
 
 
