@@ -115,12 +115,12 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ## PRINT DATA:
 ![image](https://github.com/srimathi-25/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/114581999/39724df8-e293-4047-a1dc-a31467d0cd8b)
 ## Y_PREDICTED ARRAY:
-![image](https://github.com/srimathi-25/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/114581999/0461bd12-4653-4653-86ec-7c6ce250c90c)
+![image](https://github.com/srimathi-25/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/114581999/68015e7e-f105-4f28-9499-1fe9995c027a)
 ## CONFUSION ARRAY:
-![image](https://github.com/srimathi-25/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/114581999/fb6bb7e9-4108-479e-8a41-825c4fc75600)
+![image](https://github.com/srimathi-25/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/114581999/bfb8c5b2-87e7-4def-b1cd-d2ced2172d3d)
 ![image](https://github.com/srimathi-25/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/114581999/25b2ba47-83dc-4c65-bd6c-5c9a8879a6e6)
 ## CLASSIFICATION REPORT:
-![image](https://github.com/srimathi-25/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/114581999/4530bca9-471a-4ff3-8976-0ac4eb9e52bd)
+![image](https://github.com/srimathi-25/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/114581999/2aa1f569-3280-469e-ab99-e30a582ad14a)
 ## PREDICTION OF LR:
 ![image](https://github.com/srimathi-25/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/114581999/a5bde930-23e5-44e7-98e0-511b0440921e)
 
